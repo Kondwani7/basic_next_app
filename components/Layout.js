@@ -1,6 +1,6 @@
 import Nav from './Nav';
 import Header from './Header';
-import styles from '../styles/Home.module.css';
+import styles from '../styles/Layout.module.css';
  
 const Layout = ({children}) => {
     return (
